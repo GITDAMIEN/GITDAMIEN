@@ -1,4 +1,4 @@
-Hi, I'm a Junior Full Stack Web Developer and I handle both Front End and Back End, with expertise in HTML5, CSS, Javascript, PHP and some related libraries and frameworks (Bootstrap, Laravel, Node.js, Vue.js).
+Hi, I'm a Junior Full Stack Web Developer based in Verona, Italy and I handle both Front End and Back End, with expertise in HTML5, CSS, Javascript, PHP and some related libraries and frameworks (Bootstrap, Laravel, Node.js, Vue.js).
 I'm predisposed to work with the Agile SCRUM methodology, very willing to help out, precise and reliable, highly committed to the work and meticulously attentive to details.
 Always looking for new challenges to grow both personally and professionally.
 
